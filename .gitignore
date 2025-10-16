@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+flickr
+__pycache__
+runs
+*.pkl
+*.pth
